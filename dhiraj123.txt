@@ -1,1 +1,8 @@
 Dhiraj
+git --version
+git init
+git add .
+git status 
+git remote add origin "https://github.com/ameydraut/wadpragit.git"
+git commit -m "first commit"
+git push -u origin master
